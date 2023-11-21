@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/GitHub/21PWBCS0880WP-Fall23"
+		},
+		{
+			"path": "../../task_3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Assignment"
+	}
+}

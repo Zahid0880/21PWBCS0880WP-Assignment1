@@ -1,0 +1,86 @@
+
+.container-fluid{
+    background-color: rgb(226, 216, 216);
+}
+.d-flex{
+    width: 100%;
+    height: inherit;
+    padding-left: 25%;
+}
+.butten{
+    width: 20%;
+    background-color: blue;
+    color: aliceblue;
+}
+
+.navbar-brand{
+    padding: 3%;
+}
+.carousel-inner{
+    height: 150px;
+    width: 500px;
+}
+.foot{
+    background-color:  rgb(226, 216, 216);
+    height: 350px;
+    display: flex;
+   
+    }
+.foott{
+        flex: 1;
+     background: #e7e1e1;
+        padding: 3%;
+    }
+
+    .column:first-child {
+        background-color: #eb2424;
+        
+    }
+
+    .column:last-child {
+        background-color: #eae9e9;
+       
+        align-content: center;
+    }
+  
+
+footer {
+    background-color:#e7e1e1;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.social-media {
+    margin-bottom: 20px;
+}
+
+.social-media a {
+    text-decoration: none;
+    color: #0f0e0e;
+    margin: 0 10px;
+}
+
+.social-media a:hover {
+    text-decoration: underline;
+}
+
+
+.company-info {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+.company-info address {
+    text-align: center;
+}
+
+.copyright {
+    font-size: 12px;
+}
+
+
+@media (max-width: 768px) {
+    
+}
